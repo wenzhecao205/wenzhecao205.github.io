@@ -7,6 +7,13 @@
 
 # A simple Github Pages template for personal academic websites.
 
+> ⚠️ SECURITY NOTICE (2026-06)
+> 
+> Older versions of this template include a polyfill.io dependency
+> which may cause malicious popups.
+>
+> Please update to the latest version immediately.
+
 ## Preview
 [![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
 
