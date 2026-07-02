@@ -15,7 +15,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: UWenzhe Cao;|&ensp;曹文哲
+    title: Wenzhe Cao;&ensp;曹文哲
     href: '#page-top' # Default to '#<id>' if not specified
   - id: notes
     nav: NOTES
