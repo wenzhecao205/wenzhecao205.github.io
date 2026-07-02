@@ -17,11 +17,8 @@ sections:
     nav: HOME
     title: UWenzhe Cao;|&ensp;曹文哲
     href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
+  - id: notes
+    nav: NOTES
+    title: NOTES
     icon: bi-file-text-fill
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
-    icon: bi-award-fill
+  - 
