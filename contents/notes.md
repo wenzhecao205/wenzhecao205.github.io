@@ -8,4 +8,7 @@
  
  - 高代小记 [[paper]](https://wenzhecao205.github.io/latex/%E9%AB%98%E4%BB%A3%E5%B0%8F%E8%AE%B0.pdf)
 
+ - Notes to elliptic pde( notes of 2026 Wuhan university summer school pde courses, given by professor Xavier Lamy.) [[paper]](https://github.com/wenzhecao205/latex/blob/master/Notes%20to%20Elliptic%20PDE.pdf)
+
+
 
